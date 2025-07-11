@@ -8,10 +8,13 @@ Angelina Ceballos-Escalera<sup>1,2,#</sup>, Theo Llewellyn<sup>1,2,#,</sup>*, Jo
 
 **Affilitions**
 <sup>1</sup>Leverhulme Centre for the Holobiont, Department of Life Sciences, Imperial College London, Silwood Park Campus, Ascot, Berkshire, SL5 7PY, UK
+
 <sup>2</sup>Department of Life Sciences, Natural History Museum, Cromwell Road, London, SW6 7BD UK 
+
 <sup>3</sup>Forest Research, Alice Holt Research Station, Farnham, Surrey, GU10 4LH, UK
 
 <sup>#</sup>These authors contributed equally
+
 *Corresponding author: t.llewellyn19@imperial.ac.uk
 
 
