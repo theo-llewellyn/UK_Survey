@@ -6,6 +6,7 @@ A Reference DNA Barcode Library for UK Fungi associated with Bark and Ambrosia B
 <br/>
 
 **Authors**:
+
 Angelina Ceballos-Escalera<sup>1,2,#</sup>, Theo Llewellyn<sup>1,2,#,</sup>*, John Richards<sup>1,2</sup>, Daegan Inward<sup>3</sup>, Alfried Vogler<sup>1,2</sup>
 <br/>
 
