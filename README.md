@@ -2,7 +2,7 @@
 This repository contains the code associated to the paper:
 <br/>
 
-**A Reference DNA Barcode Library for UK Fungi associated with Bark and Ambrosia Beetles**
+A Reference DNA Barcode Library for UK Fungi associated with Bark and Ambrosia Beetles
 <br/>
 
 **Authors**:
