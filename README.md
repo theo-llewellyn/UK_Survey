@@ -1,5 +1,19 @@
 # UK_Survey
-A Reference ITS2 DNA Barcode Library for UK Fungi associated with Bark and Ambrosia Beetles - Llewellyn et al. (2025)
+This repository contains the code associated to the paper:
+
+**A Reference DNA Barcode Library for UK Fungi associated with Bark and Ambrosia Beetles**
+
+**Authors**:
+Angelina Ceballos-Escalera^1,2,#^, Theo Llewellyn^1,2,#,^*, John Richards^1,2^, Daegan Inward^4, Alfried Vogler^1,2^
+
+**Affilitions**
+^1^Leverhulme Centre for the Holobiont, Department of Life Sciences, Imperial College London, Silwood Park Campus, Ascot, Berkshire, SL5 7PY, UK
+^2^Department of Life Sciences, Natural History Museum, Cromwell Road, London, SW6 7BD UK 
+^4^Forest Research, Alice Holt Research Station, Farnham, Surrey, GU10 4LH, UK
+
+^#^These authors contributed equally
+*Corresponding author: t.llewellyn19@imperial.ac.uk
+
 
 ## 1. Sequence Denoising
 1. `./vsearch.sh` This script denoises reads, merges FWD and REV files, detects consensus chimaeras and clusters reads into 0% ASVs
