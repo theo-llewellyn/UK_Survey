@@ -1,5 +1,5 @@
 # UK_Survey
-A Reference ITS2 DNA Barcode Library for UK Fungi associated with Bark and Ambrosia Beetles
+A Reference ITS2 DNA Barcode Library for UK Fungi associated with Bark and Ambrosia Beetles - Llewellyn et al. (2025)
 
 ## 1. Sequence Denoising
 1. `./vsearch.sh` This script denoises reads, merges FWD and REV files, detects consensus chimaeras and clusters reads into 0% ASVs
