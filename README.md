@@ -4,14 +4,14 @@ This repository contains the code associated to the paper:
 **A Reference DNA Barcode Library for UK Fungi associated with Bark and Ambrosia Beetles**
 
 **Authors**:
-Angelina Ceballos-Escalera<sup>1,2,#</sup>, Theo Llewellyn^1,2,#,^*, John Richards^1,2^, Daegan Inward^4, Alfried Vogler^1,2^
+Angelina Ceballos-Escalera<sup>1,2,#</sup>, Theo Llewellyn<sup>1,2,#,</sup>*, John Richards<sup>1,2</sup>, Daegan Inward<sup>3</sup>, Alfried Vogler<sup>1,2</sup>
 
 **Affilitions**
-^1^Leverhulme Centre for the Holobiont, Department of Life Sciences, Imperial College London, Silwood Park Campus, Ascot, Berkshire, SL5 7PY, UK
-^2^Department of Life Sciences, Natural History Museum, Cromwell Road, London, SW6 7BD UK 
-^4^Forest Research, Alice Holt Research Station, Farnham, Surrey, GU10 4LH, UK
+<sup>1</sup>Leverhulme Centre for the Holobiont, Department of Life Sciences, Imperial College London, Silwood Park Campus, Ascot, Berkshire, SL5 7PY, UK
+<sup>2</sup>Department of Life Sciences, Natural History Museum, Cromwell Road, London, SW6 7BD UK 
+<sup>3</sup>Forest Research, Alice Holt Research Station, Farnham, Surrey, GU10 4LH, UK
 
-^#^These authors contributed equally
+<sup>#</sup>These authors contributed equally
 *Corresponding author: t.llewellyn19@imperial.ac.uk
 
 
