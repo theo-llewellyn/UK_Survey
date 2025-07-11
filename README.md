@@ -15,8 +15,7 @@ Angelina Ceballos-Escalera<sup>1,2,#</sup>, Theo Llewellyn<sup>1,2,#,</sup>*, Jo
 <sup>2</sup>Department of Life Sciences, Natural History Museum, Cromwell Road, London, SW6 7BD UK 
 
 <sup>3</sup>Forest Research, Alice Holt Research Station, Farnham, Surrey, GU10 4LH, UK
-\n
-\n
+<br/>
 <sup>#</sup>These authors contributed equally
 
 *Corresponding author: t.llewellyn19@imperial.ac.uk
